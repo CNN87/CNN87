@@ -2,7 +2,7 @@
 I am a dedicated Junior Full Stack Developer with strong knowledge in Angular, React, and JavaScript. Through the development of professional business apps and websites, I have been able to expand and deepen my knowledge both independently and in teamwork.
 My skills include setting up virtual servers and providing backends. In frontend development, I have a passion for designing responsive user interfaces that meet high design standards. A selection of my projects is available in my portfolio and on GitHub.
 I enhanced my knowledge through a demanding training at the TÜV-certified Developer Academy, where I worked on individual and group projects and received code reviews from experienced programmers. Additionally, I successfully completed further training as a Full Stack Developer at Alfatraining.
-<h1>Hi 👋, I am a dedicated Junior Full Stack Developer with strong knowledge in Angular, React, and JavaScript. Through the development of professional business apps and websites, I have been able to expand and deepen my knowledge both independently and in teamwork. My skills include setting up virtual servers and providing backends. In frontend development, I have a passion for designing responsive user interfaces that meet high design standards. A selection of my projects is available in my portfolio and on GitHub. I enhanced my knowledge through a demanding training at the TÜV-certified Developer Academy, where I worked on individual and group projects and received code reviews from experienced programmers. Additionally, I successfully completed further training as a Full Stack Developer at Alfatraining.</h1>
+
 <p>A passionate frontend developer from GERMANY, BERLIN</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
